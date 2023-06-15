@@ -17,34 +17,34 @@ This program is designed to make simple and effective randomized passwords. When
 ## Program Flow Photos
 
 ## Start
-![](/Develop/images/PWG%20Start.png)
+![](/images/PWG%20Start.png)
 
 ## Length
-![](/Develop/images/Length%20Alert.png)
+![](/images/Length%20Alert.png)
 
 ## Invalid Length
-![](/Develop/images/Invalid%20Length.png)
+![](/images/Invalid%20Length.png)
 
 ## Length Alert
-![](/Develop/images/Length%20Alert.png)
+![](/images/Length%20Alert.png)
 
 ## Upper Confirm
-![](/Develop/images/Upper%20Confirm.png)
+![](/images/Upper%20Confirm.png)
 
 ## Lower Confirm
-![](/Develop/images/Lower%20Confirm.png)
+![](/images/Lower%20Confirm.png)
 
 ## Number Confirm
-![](/Develop/images/Number%20Confirm.png)
+![](/images/Number%20Confirm.png)
 
 ## Special Confirm
-![](/Develop/images/Special%20Confirm.png)
+![](/images/Special%20Confirm.png)
 
 ## Condition Alert
-![](/Develop/images/Condition%20Alert.png)
+![](/images/Condition%20Alert.png)
 
 ## Finish
-![](/Develop/images/PWG%20Finish.png)
+![](/images/PWG%20Finish.png)
 
 # Link
 
